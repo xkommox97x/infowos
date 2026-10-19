@@ -1,0 +1,6 @@
+{
+  "name": "Whiteout Survival Ultimate Encyclopedia & Multilingual Guide",
+  "description": "Comprehensive Whiteout Survival strategy encyclopedia with working 12-language translation, troop ratio calculators, gear empowerment planner, and battle guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
